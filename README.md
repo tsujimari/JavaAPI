@@ -25,20 +25,20 @@
 
 ***
 
-## [Exercise1](exervise1.md)
-[解答](src/Exervise1.java)
+## [Exercise1](exercise1.md)
+[解答](src/Exercise1.java)
 
 <br>
 
-## [Exercise2](exervise2.md)
-[解答](src/Exervise2.java)
+## [Exercise2](exercise2.md)
+[解答](src/Execvise2.java)
 
 <br>
 
-## [Exercise3](exervise3.md)
-[解答](src/Exervise3.java)
+## [Exercise3](exercise3.md)
+[解答](src/Exercise3.java)
 
 <br>
 
-## [Exercise4](exervise4.md)
-[解答](src/Exervise4.java)
+## [Exercise4](exercise4.md)
+[解答](src/Exercise4.java)
