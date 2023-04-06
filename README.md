@@ -31,7 +31,7 @@
 <br>
 
 ## [Exercise2](exercise2.md)
-[解答](src/Execvise2.java)
+[解答](src/Exercise2.java)
 
 <br>
 
